@@ -1,8 +1,9 @@
 ### Olá, eu sou Valney Maia
 
-- 💻 Estudando programação
-- 👨‍💻 Tenho conhecimento em C
-- 👨‍💻 Estou aprendendo Java e Python
+- 💻 Graduando em Ciencioa da Computação na Universidade Federal do Cariri
+- 👨‍💻 Tenho conhecimento em C , Java, Python,
+- 👨‍💻 Estou aprendendo React + JavaScript
+
 
 -  ![valneymaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valneymaia&show_icons=true&theme=dracula)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valneymaia&theme=dracula)](https://github.com/valneymaia/github-readme-stats)

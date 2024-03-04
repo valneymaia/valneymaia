@@ -1,6 +1,6 @@
 ### Olá, eu sou Valney Maia
 
-- 💻 Graduando em Ciencioa da Computação na Universidade Federal do Cariri
+- 💻 Graduando em Ciencia da Computação na Universidade Federal do Cariri
 - 👨‍💻 Tenho conhecimento em C , Java, Python,
 - 👨‍💻 Estou aprendendo React + JavaScript
 

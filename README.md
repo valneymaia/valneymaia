@@ -1,8 +1,8 @@
 ### Olá, eu sou Valney Maia
 
 - 💻 Graduando em Ciencia da Computação na Universidade Federal do Cariri
-- 👨‍💻 Tenho conhecimento em C , Java, Python,
-- 👨‍💻 Estou aprendendo React + JavaScript
+- 👨‍💻 Tenho conhecimento em C, Java, Python, React, Swift ui, mysql
+- 👨‍💻 Estou aprendendo React + JavaScript 
 
 
 -  ![valneymaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valneymaia&show_icons=true&theme=dracula)

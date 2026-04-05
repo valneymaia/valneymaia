@@ -1,9 +1,24 @@
-# 👋 Olá, eu sou Valney Maia
+# 👋 Olá, eu sou Valney Maia desenvolvedor full stacke analista de rede
 
-💻 Estudante de Ciência da Computação (UFCA)  
+💻 Graduado em Ciência da Computação (UFCA)  
 🚀 Desenvolvedor com foco em soluções práticas, sistemas e tecnologia  
 
 ---
+## 📫 Contato
+
+<div>
+  <a href="https://instagram.com/valneymaia" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:valney.maia01@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/valney-maia-98b5a5150" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+
 
 ## 🧠 Tecnologias
 
@@ -34,19 +49,6 @@ Atualmente estou focado em evoluir minhas habilidades em desenvolvimento web e c
 
 ---
 
-## 📫 Contato
-
-<div>
-  <a href="https://instagram.com/valneymaia" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:valney.maia01@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/valney-maia-98b5a5150" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
 
 ---
 

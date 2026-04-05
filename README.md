@@ -91,16 +91,6 @@
 
 ---
 
-## 🏅 Certificados
-
-| Certificado | Instituição | Carga Horária |
-|---|---|---|
-| Práticas de Cloud Services usando Swift com ênfase em Serviços Cognitivos | Eldorado / Hacktruck | 100h |
-| Conceitos e Fundamentos, Algoritmos e POO Swift | Eldorado / Hacktruck | 50h |
-| Fundamentos das Plataformas de Sensoriamento Inteligente para Indústria | Virtus | 20h |
-| Capacitação Profissional em Sistemas Embarcados | Embarca Tech | 160h |
-
----
 
 ## 🌍 Idiomas
 

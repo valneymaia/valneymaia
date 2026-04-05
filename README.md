@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Valney Maia desenvolvedor full stacke analista de rede
+# 👋 Olá, eu sou Valney Maia desenvolvedor full stack e analista de rede
 
 💻 Graduado em Ciência da Computação (UFCA)  
 🚀 Desenvolvedor com foco em soluções práticas, sistemas e tecnologia  

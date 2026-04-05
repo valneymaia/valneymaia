@@ -27,8 +27,6 @@
   </a>
 </div>
 
-📍 Juazeiro do Norte – CE &nbsp;|&nbsp; 📞 87 99913-8307
-
 ---
 
 ## 🎓 Formação
@@ -90,7 +88,6 @@
 - Desenvolvi atividades práticas baseadas em educação maker, estimulando a criatividade e o pensamento computacional dos alunos.
 
 ---
-
 
 ## 🌍 Idiomas
 

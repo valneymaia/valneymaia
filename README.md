@@ -1,6 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Valney Maia Neto</h1>
 <h3 align="center">Desenvolvedor Full Stack • Infraestrutura de TI • IoT</h3>
 
+portifolio =  https://valneymaia.github.io/Portfolio/
+
 <p align="center">
   Bacharel em Ciências da Computação pela UFCA com experiência prática em desenvolvimento full stack,
   infraestrutura de TI e IoT. Atuei por 3 anos na Diretoria de Tecnologia da Informação da UFCA

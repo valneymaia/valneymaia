@@ -104,7 +104,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valneymaia&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=valneymaia&theme=dracula&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valneymaia&layout=compact&theme=dracula" />
 </div>
 

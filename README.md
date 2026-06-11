@@ -49,7 +49,7 @@
 ### 💻 Frontend & Mobile
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,ts,js,tailwind,swift&perline=8" alt="Frontend & Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,swift&perline=8" alt="Frontend & Mobile" />
 </div>
 
 <br/>

@@ -46,67 +46,35 @@
 
 ## Stack técnica
 
-### Frontend & Mobile
+### 💻 Frontend & Mobile
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" height="28"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,ts,js,tailwind,swift&perline=8" alt="Frontend & Mobile" />
+</div>
 
-### Backend & Banco de Dados
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28"/>
-</p>
+### ⚙️ Backend & Banco de Dados
 
-### Infraestrutura, Redes & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,java,c,postgres,mysql,sqlite,prisma&perline=10" alt="Backend & Banco de Dados" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/FOG_Project-4B5563?style=for-the-badge&logo=linux&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Veyon-1E88E5?style=for-the-badge&logo=windows&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/NetBox-0066CC?style=for-the-badge&logo=netbox&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/HPE_IMC-01A982?style=for-the-badge&logo=hp&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logo=hp&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Ruckus-CC0000?style=for-the-badge&logo=wi-fi&logoColor=white" height="28"/>
-</p>
+<br/>
 
-### IoT & Sistemas Embarcados
+### 🛠️ Infraestrutura, Redes & DevOps
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=micropython&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel&perline=5" alt="Infraestrutura & DevOps" />
+</div>
 
-### Dados & Visualização
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/Dashboards-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" height="28"/>
-</p>
+### 🔌 IoT & Sistemas Embarcados
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" alt="IoT & Embarcados" />
+</div>
 
 ---
 
@@ -134,7 +102,6 @@
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=valneymaia&theme=dracula&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valneymaia&layout=compact&theme=dracula" />
-</div>
 </div>
 
 ---

@@ -1,13 +1,19 @@
 <div align="center">
 
 <h1>Valney Maia Neto</h1>
-<h3>Full Stack Developer | IT Infrastructure | IoT & Embedded Systems</h3>
+<h3>Full Stack Developer | IT Infrastructure | Automation | IoT & Embedded Systems</h3>
 
 <p>
-  Desenvolvedor Full Stack e profissional de TI com experiência prática em desenvolvimento web/mobile,
-  automação, infraestrutura de redes e IoT. Tenho vivência em ambientes reais de TI, com atuação em redes
-  corporativas, suporte técnico, dashboards, laboratórios acadêmicos e soluções em escala.
+  Cientista da Computação e Desenvolvedor Full Stack com experiência prática em desenvolvimento web/mobile,
+  automação, infraestrutura de redes, suporte técnico e IoT. Tenho vivência em ambientes reais de TI,
+  atuando com sistemas, redes corporativas, dashboards, laboratórios acadêmicos e soluções em escala.
 </p>
+
+<p>
+  Atualmente atuo com suporte técnico na Lanlink e sigo direcionando minha carreira para desenvolvimento
+  de software, com foco em aplicações web, mobile, APIs, automações e soluções digitais.
+</p>
+
 <p>
   Meu diferencial está em unir desenvolvimento de software, visão de infraestrutura e capacidade de transformar
   problemas operacionais em soluções práticas, organizadas e escaláveis.
@@ -37,10 +43,12 @@
 
 ## Sobre mim
 
-- Bacharel em Ciência da Computação pela Universidade Federal do Cariri - UFCA.
-- Experiência de 2,5 anos na Diretoria de Tecnologia da Informação da UFCA.
-- Atuei com automação de laboratórios, administração de redes, dashboards, suporte técnico e documentação de infraestrutura.
-- Interesses principais: desenvolvimento full stack, apps mobile, infraestrutura, IoT, automação e sistemas embarcados.
+* Bacharel em Ciência da Computação pela Universidade Federal do Cariri - UFCA.
+* Atuo atualmente com suporte técnico na Lanlink, em ambiente institucional.
+* Experiência de 2,5 anos na Diretoria de Tecnologia da Informação da UFCA.
+* Atuei com automação de laboratórios, administração de redes, dashboards, suporte técnico e documentação de infraestrutura.
+* Tenho foco em desenvolvimento full stack, aplicações web/mobile, APIs, automações e soluções digitais.
+* Interesses principais: desenvolvimento full stack, apps mobile, infraestrutura, IoT, automação e sistemas embarcados.
 
 ---
 
@@ -49,7 +57,7 @@
 ### 💻 Frontend & Mobile
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,swift&perline=8" alt="Frontend & Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,swift&perline=8" alt="Frontend & Mobile" />
 </div>
 
 <br/>
@@ -57,7 +65,7 @@
 ### ⚙️ Backend & Banco de Dados
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,java,c,postgres,mysql,sqlite,prisma&perline=10" alt="Backend & Banco de Dados" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,java,c,postgres,mysql,sqlite,prisma,supabase,mongodb&perline=10" alt="Backend & Banco de Dados" />
 </div>
 
 <br/>
@@ -80,20 +88,29 @@
 
 ## Experiência
 
+### Suporte Técnico - Lanlink `Jun 2026 - Atual`
+
+* Atendimento e suporte técnico a usuários em ambiente institucional.
+* Tratamento de incidentes, requisições e problemas relacionados a sistemas, equipamentos e microinformática.
+* Suporte presencial e remoto a computadores, notebooks, impressoras, scanners, webcams e aparelhos VoIP.
+* Instalação, configuração e atualização de softwares, hardwares e imagens padrão de estações de trabalho.
+* Apoio à infraestrutura de redes, incluindo Wi-Fi, access points, switches, firewalls e organização de racks.
+* Controle de inventário de ativos de TIC, rotinas de backup/restauração e documentação de procedimentos técnicos.
+
 ### Bolsista PAP - DTI/UFCA `Jun 2023 - Dez 2025`
 
-- Implantei o FOG Project para automatizar a clonagem e padronização de sistemas em **mais de 300 máquinas distribuídas em 10 laboratórios**.
-- Administrei ativos de rede, incluindo switches Aruba e Access Points Ruckus, com apoio do HPE IMC para monitoramento e manutenção.
-- Apoiei o gerenciamento de VLANs, VPNs e documentação técnica de ativos no NetBox.
-- Desenvolvi dashboards no Looker Studio para controle patrimonial e inventário de bens de TI.
-- Utilizei Veyon para monitoramento e controle remoto de laboratórios.
-- Prestei suporte técnico nível 1 e 2 em ambientes Windows e Linux.
-- Orientei estagiários em atividades técnicas de campo e padronização de procedimentos.
+* Implantei o FOG Project para automatizar a clonagem e padronização de sistemas em **mais de 300 máquinas distribuídas em 10 laboratórios**.
+* Administrei ativos de rede, incluindo switches Aruba e Access Points Ruckus, com apoio do HPE IMC para monitoramento e manutenção.
+* Apoiei o gerenciamento de VLANs, VPNs e documentação técnica de ativos no NetBox.
+* Desenvolvi dashboards no Looker Studio para controle patrimonial e inventário de bens de TI.
+* Utilizei Veyon para monitoramento e controle remoto de laboratórios.
+* Prestei suporte técnico nível 1 e 2 em ambientes Windows e Linux.
+* Orientei estagiários em atividades técnicas de campo e padronização de procedimentos.
 
 ### Voluntário - Pensamento Computacional, UFCA `Jan 2024 - Dez 2024`
 
-- Ministrei aulas de lógica de programação e introdução à eletrônica com Arduino para estudantes da rede pública.
-- Desenvolvi atividades práticas com foco em aprendizagem criativa, raciocínio lógico, pensamento computacional e resolução de problemas.
+* Ministrei aulas de lógica de programação e introdução à eletrônica com Arduino para estudantes da rede pública.
+* Desenvolvi atividades práticas com foco em aprendizagem criativa, raciocínio lógico, pensamento computacional e resolução de problemas.
 
 ---
 
@@ -110,18 +127,21 @@
 
 **Bacharel em Ciência da Computação** - Universidade Federal do Cariri - UFCA
 
-| Certificação | Instituição | Carga |
-|---|---|---|
-| Capacitação Profissional em Sistemas Embarcados | EmbarcaTech | 160h |
-| Práticas de Cloud Services usando Swift com ênfase em Serviços Cognitivos | Eldorado / HackTruck | 100h |
-| Algoritmos e Programação Orientada a Objetos em Swift | Eldorado / HackTruck | 50h |
-| Fundamentos das Plataformas de Sensoriamento Inteligente para Indústria | Virtus | 20h |
+| Certificação                                                              | Instituição          | Carga |
+| ------------------------------------------------------------------------- | -------------------- | ----- |
+| Capacitação Profissional em Sistemas Embarcados                           | EmbarcaTech          | 160h  |
+| Práticas de Cloud Services usando Swift com ênfase em Serviços Cognitivos | Eldorado / HackTruck | 100h  |
+| Algoritmos e Programação Orientada a Objetos em Swift                     | Eldorado / HackTruck | 50h   |
+| Fundamentos das Plataformas de Sensoriamento Inteligente para Indústria   | Virtus               | 20h   |
+| Conceitos Básicos de Redes                                                | Cisco                | 20h   |
+
+
 
 ---
 
 ## Idiomas
 
-**Português:** nativo  
+**Português:** nativo
 **Inglês:** intermediário em leitura e escrita técnica; básico em conversação
 
 ---

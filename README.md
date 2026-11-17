@@ -96,6 +96,15 @@
 * Apoio à infraestrutura de redes, incluindo Wi-Fi, access points, switches, firewalls e organização de racks.
 * Controle de inventário de ativos de TIC, rotinas de backup/restauração e documentação de procedimentos técnicos.
 
+### Residência Tecnológica | PNAAT · 2026 · 2 meses
+
+* Atuei com sistemas embarcados, IoT e inteligência artificial na borda.
+* Ao longo do programa, participei do desenvolvimento em equipe do **FlowCount**, de provas de conceito e de apresentações técnicas.
+* Trabalhei com sensores, ESP32, Raspberry Pi e ferramentas de visão computacional como YOLO, Edge Impulse e TensorFlow Lite.
+* Concluí a Trilha de Fundamentos e o Intensivo Maker e participei do Job Fair do programa.
+
+[Formação PNAAT · Julho a setembro de 2026 · 234 horas](https://drive.google.com/drive/folders/1JQyTrCAfwsPMssvQza5Q3jZGHdgJlXeP?usp=drive_link)
+
 ### Bolsista PAP - DTI/UFCA `Jun 2023 - Dez 2025`
 
 * Implantei o FOG Project para automatizar a clonagem e padronização de sistemas em **mais de 300 máquinas distribuídas em 10 laboratórios**.
@@ -113,12 +122,25 @@
 
 ---
 
-## GitHub Stats
+## 📊 Atividade no GitHub
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=valneymaia&theme=dracula&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valneymaia&layout=compact&theme=dracula" />
-</div>
+<p align="center">
+  <a href="https://github.com/valneymaia?tab=overview">
+    <img width="560" src="https://streak-stats.demolab.com?user=valneymaia&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=00000000" alt="Total de contribuições, sequência atual e maior sequência de Valney Maia no GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/valneymaia?tab=overview">
+    <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=valneymaia&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de contribuições recentes de Valney Maia no GitHub" />
+  </a>
+</p>
+
+<details>
+  <summary>Linguagens mais usadas</summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valneymaia&amp;layout=compact&amp;theme=dracula" alt="Linguagens mais usadas nos repositórios de Valney Maia" />
+</details>
 
 ---
 

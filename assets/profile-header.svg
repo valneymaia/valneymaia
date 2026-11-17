@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Valney Maia Neto</title>
+  <desc id="desc">Desenvolvimento Full Stack, infraestrutura e automação</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0d1428"/>
+      <stop offset="1" stop-color="#252050"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#64e8d3"/>
+      <stop offset="1" stop-color="#a99aff"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="240" rx="25" fill="url(#background)"/>
+  <g fill="none" stroke="#a99aff" opacity=".2" stroke-width="1.5">
+    <path d="M960 39H866L810 95H724 M960 77H890L814 153H748 M960 171H879L835 215H750"/>
+    <circle cx="720" cy="95" r="4"/><circle cx="744" cy="153" r="4"/><circle cx="746" cy="215" r="4"/>
+    <circle cx="891" cy="119" r="49"/>
+  </g>
+  <rect x="56" y="59" width="60" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="54" y="129" fill="#f8faff" font-family="system-ui, sans-serif" font-weight="700" font-size="57">Valney Maia Neto</text>
+  <text x="57" y="172" fill="#a8eddf" font-family="system-ui, sans-serif" font-size="22">Full Stack · Infraestrutura · Automação · IoT</text>
+</svg>

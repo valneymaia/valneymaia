@@ -126,21 +126,17 @@
 
 <p align="center">
   <a href="https://github.com/valneymaia?tab=overview">
-    <img width="560" src="https://streak-stats.demolab.com?user=valneymaia&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=00000000" alt="Total de contribuições, sequência atual e maior sequência de Valney Maia no GitHub" />
+    <img width="560" src="https://streak-stats.demolab.com?user=valneymaia&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00B4D8&amp;fire=00B4D8&amp;currStreakLabel=00B4D8" alt="Total de contribuições, sequência atual e maior sequência de Valney Maia no GitHub" />
   </a>
 </p>
+
+### Linguagens mais usadas
 
 <p align="center">
-  <a href="https://github.com/valneymaia?tab=overview">
-    <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=valneymaia&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de contribuições recentes de Valney Maia no GitHub" />
+  <a href="https://github.com/valneymaia?tab=repositories">
+    <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valneymaia&amp;theme=tokyonight" alt="Linguagens mais usadas por repositório de Valney Maia" />
   </a>
 </p>
-
-<details>
-  <summary>Linguagens mais usadas</summary>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valneymaia&amp;layout=compact&amp;theme=dracula" alt="Linguagens mais usadas nos repositórios de Valney Maia" />
-</details>
 
 ---
 

@@ -1,129 +1,50 @@
 <div align="center">
 
-<h1>Valney Maia Neto</h1>
-<h3>Full Stack Developer | IT Infrastructure | Automation | IoT & Embedded Systems</h3>
+# Valney Maia Neto
 
-<p>
-  Cientista da Computação e Desenvolvedor Full Stack com experiência prática em desenvolvimento web/mobile,
-  automação, infraestrutura de redes, suporte técnico e IoT. Tenho vivência em ambientes reais de TI,
-  atuando com sistemas, redes corporativas, dashboards, laboratórios acadêmicos e soluções em escala.
-</p>
+**Desenvolvedor Full Stack · Infraestrutura de TI · Automação**
 
-<p>
-  Atualmente atuo com suporte técnico na Lanlink e sigo direcionando minha carreira para desenvolvimento
-  de software, com foco em aplicações web, mobile, APIs, automações e soluções digitais.
-</p>
-
-<p>
-  Meu diferencial está em unir desenvolvimento de software, visão de infraestrutura e capacidade de transformar
-  problemas operacionais em soluções práticas, organizadas e escaláveis.
-</p>
-
-<p>
-  <a href="https://valneymaia.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-valneymaia.dev-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/valney-maia-98b5a5150" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Valney_Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="mailto:valney.maia.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-valney.maia.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/valneymaia" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@valneymaia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-  </a>
-</p>
+[Portfólio](https://valneymaia.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/valney-maia-98b5a5150) · [E-mail](mailto:valney.maia.dev@gmail.com) · [Instagram](https://instagram.com/valneymaia)
 
 </div>
 
----
+Sou bacharel em Ciência da Computação pela UFCA. Desenvolvo aplicações web, mobile e APIs e atuo com suporte técnico na Lanlink. Na DTI da UFCA, implantei o FOG Project para automatizar a clonagem e a padronização de **mais de 300 computadores em 10 laboratórios**.
 
-## Sobre mim
+## Projetos em destaque
 
-* Bacharel em Ciência da Computação pela Universidade Federal do Cariri - UFCA.
-* Atuo atualmente com suporte técnico na Lanlink, em ambiente institucional.
-* Experiência de 2,5 anos na Diretoria de Tecnologia da Informação da UFCA.
-* Atuei com automação de laboratórios, administração de redes, dashboards, suporte técnico e documentação de infraestrutura.
-* Tenho foco em desenvolvimento full stack, aplicações web/mobile, APIs, automações e soluções digitais.
-* Interesses principais: desenvolvimento full stack, apps mobile, infraestrutura, IoT, automação e sistemas embarcados.
+| Projeto | O que você encontra |
+| --- | --- |
+| [Witch’s Trick](https://github.com/valneymaia/Witch-Trick) | Jogo de cartas em equipes com salas para 4, 6 ou 8 jogadores e modo de teste solo. |
+| [UniTrampo](https://github.com/valneymaia/UniTrampo) | Plataforma universitária para divulgar vagas, estágios e serviços freelance. |
+| [Portfólio](https://valneymaia.github.io/Portfolio/) | Site pessoal com minha trajetória e meus projetos. |
 
----
+## Tecnologias
 
-## Stack técnica
-
-### 💻 Frontend & Mobile
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,swift&perline=8" alt="Frontend & Mobile" />
-</div>
-
-<br/>
-
-### ⚙️ Backend & Banco de Dados
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,java,c,postgres,mysql,sqlite,prisma,supabase,mongodb&perline=10" alt="Backend & Banco de Dados" />
-</div>
-
-<br/>
-
-### 🛠️ Infraestrutura, Redes & DevOps
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel&perline=5" alt="Infraestrutura & DevOps" />
-</div>
-
-<br/>
-
-### 🔌 IoT & Sistemas Embarcados
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" alt="IoT & Embarcados" />
-</div>
-
----
+| Área | Ferramentas |
+| --- | --- |
+| Frontend e mobile | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS e Swift |
+| Backend e dados | Node.js, Python, FastAPI, Flask, Java, C, PostgreSQL, MySQL, SQLite, Prisma, Supabase e MongoDB |
+| Infraestrutura e DevOps | Linux, Docker, Git, GitHub e Vercel |
+| IoT e sistemas embarcados | Arduino e Raspberry Pi |
 
 ## Experiência
 
-### Suporte Técnico - Lanlink `Jun 2026 - Atual`
+### Lanlink · Suporte técnico · desde jun. 2026
 
-* Atendimento e suporte técnico a usuários em ambiente institucional.
-* Tratamento de incidentes, requisições e problemas relacionados a sistemas, equipamentos e microinformática.
-* Suporte presencial e remoto a computadores, notebooks, impressoras, scanners, webcams e aparelhos VoIP.
-* Instalação, configuração e atualização de softwares, hardwares e imagens padrão de estações de trabalho.
-* Apoio à infraestrutura de redes, incluindo Wi-Fi, access points, switches, firewalls e organização de racks.
-* Controle de inventário de ativos de TIC, rotinas de backup/restauração e documentação de procedimentos técnicos.
+- Atendimento presencial e remoto, resolução de incidentes e configuração de estações de trabalho e periféricos.
+- Apoio à infraestrutura de rede, inventário de ativos de TI, rotinas de backup e documentação técnica.
 
-### Bolsista PAP - DTI/UFCA `Jun 2023 - Dez 2025`
+### DTI/UFCA · Bolsista PAP · jun. 2023 a dez. 2025
 
-* Implantei o FOG Project para automatizar a clonagem e padronização de sistemas em **mais de 300 máquinas distribuídas em 10 laboratórios**.
-* Administrei ativos de rede, incluindo switches Aruba e Access Points Ruckus, com apoio do HPE IMC para monitoramento e manutenção.
-* Apoiei o gerenciamento de VLANs, VPNs e documentação técnica de ativos no NetBox.
-* Desenvolvi dashboards no Looker Studio para controle patrimonial e inventário de bens de TI.
-* Utilizei Veyon para monitoramento e controle remoto de laboratórios.
-* Prestei suporte técnico nível 1 e 2 em ambientes Windows e Linux.
-* Orientei estagiários em atividades técnicas de campo e padronização de procedimentos.
+- Automatizei a implantação de imagens de sistema com FOG Project e usei o Veyon para monitorar os laboratórios.
+- Administrei switches Aruba e pontos de acesso Ruckus com HPE IMC, apoiei a gestão de VLANs e VPNs e documentei ativos no NetBox.
+- Criei painéis de inventário e controle patrimonial no Looker Studio, prestei suporte N1 e N2 em Windows e Linux e orientei estagiários.
 
-### Voluntário - Pensamento Computacional, UFCA `Jan 2024 - Dez 2024`
+### UFCA · Voluntário em Pensamento Computacional · jan. a dez. 2024
 
-* Ministrei aulas de lógica de programação e introdução à eletrônica com Arduino para estudantes da rede pública.
-* Desenvolvi atividades práticas com foco em aprendizagem criativa, raciocínio lógico, pensamento computacional e resolução de problemas.
+- Ministrei aulas de lógica de programação e eletrônica com Arduino para estudantes da rede pública.
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=valneymaia&theme=dracula&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valneymaia&layout=compact&theme=dracula" />
-</div>
-
----
-
-## Formação & Certificações
+## Formação e Certificações
 
 **Bacharel em Ciência da Computação** - Universidade Federal do Cariri - UFCA
 
@@ -143,9 +64,3 @@
 
 **Português:** nativo
 **Inglês:** intermediário em leitura e escrita técnica; básico em conversação
-
----
-
-<div align="center">
-  <sub>Sempre aprendendo, sempre construindo.</sub>
-</div>

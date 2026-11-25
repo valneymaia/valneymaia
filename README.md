@@ -130,6 +130,12 @@
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valneymaia/valneymaia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valneymaia/valneymaia/output/github-snake.svg" />
+  <img alt="Cobrinha com o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/valneymaia/valneymaia/output/github-snake.svg" />
+</picture>
+
 ### Linguagens mais usadas
 
 <p align="center">
